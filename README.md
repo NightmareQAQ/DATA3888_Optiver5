@@ -4,3 +4,5 @@
 1. Download the project
 2. open code in R background
 3. run app.R
+
+PS: Makesure All the File Path and data file is load in corr folder
