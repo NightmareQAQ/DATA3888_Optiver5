@@ -496,7 +496,7 @@ server <- function(input, output, session) {
     })
   })
   observeEvent(input$run_cluster, {
-    index_vec = as.vector(replicate(2, 1:5))  
+    index_vec = as.vector(replicate(5, 1:5))  
     cluster_df = cluster_df %>% mutate(index = index_vec)
     
     filtered_cluster = cluster_df %>% filter(stock_id == input$stock_cluster & time_id == input$time_id) 
