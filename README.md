@@ -1,6 +1,6 @@
 # Data3888_Optiver5 Shiny App User Guide
 
-This guide will walk you through setting up and running the Data3888_Optiver5 Shiny App. This app offers a robust toolset for stock data visualization and analysis, with a clear, intuitive interface.
+This guide will walk you through setting up and running the Data3888_Optiver5 Shiny App.
 
 ## Table of Contents
 
