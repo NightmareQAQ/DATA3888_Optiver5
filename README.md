@@ -15,10 +15,9 @@ This guide will walk you through setting up and running the Data3888_Optiver5 Sh
 Firstly, you need to clone the project from GitHub. You can do this by running the following command in your terminal:
 
 ```bash
-git clone [GitHub Repository URL]
+git clone https://github.com/NightmareQAQ/DATA3888_Optiver5.git
 ```
 
-Please replace `[GitHub Repository URL]` with the actual URL of the repository.
 
 ## Setting Up the Environment
 
