@@ -1,0 +1,13 @@
+name: project
+title: project
+username:
+account: alexwang6677
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9154218
+bundleId: 7244373
+url: https://alexwang6677.shinyapps.io/project/
+when: 1684675201.01405
+lastSyncTime: 1684675201.01406
+asMultiple: FALSE
+asStatic: FALSE
