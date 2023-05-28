@@ -51,6 +51,6 @@ Here are some screenshots from the Shiny app:
   - Cluster Model 2 ![Cluster Model 2](https://github.com/NightmareQAQ/DATA3888_Optiver5/blob/main/img/cluster_model_2.png)
 - Monitor Screen ![Monitor Screen](https://github.com/NightmareQAQ/DATA3888_Optiver5/blob/main/img/minitor.png)
 
-Please note that these images are located in the `./img` folder within the project. This guide provides a glimpse of what you can expect when you run the Data3888_Optiver5 Shiny App. Enjoy exploring the data with this dynamic tool!
-
+## Issues
+This guide provides a glimpse of what you can expect when you run the Data3888_Optiver5 Shiny App. Enjoy exploring the data with this dynamic tool!
 If you encounter any issues during the setup or operation of this Shiny app, please check the `README.md` file in the project repository or submit an issue on the GitHub project page.
